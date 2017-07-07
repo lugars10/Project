@@ -1,0 +1,5 @@
+C:\Users\LuisRoberto\documents\visual studio 2017\Projects\bfClassLib\bfClassLib\bin\Debug\bfClassLib.dll
+C:\Users\LuisRoberto\documents\visual studio 2017\Projects\bfClassLib\bfClassLib\bin\Debug\bfClassLib.pdb
+C:\Users\LuisRoberto\documents\visual studio 2017\Projects\bfClassLib\bfClassLib\obj\Debug\bfClassLib.csprojResolveAssemblyReference.cache
+C:\Users\LuisRoberto\documents\visual studio 2017\Projects\bfClassLib\bfClassLib\obj\Debug\bfClassLib.dll
+C:\Users\LuisRoberto\documents\visual studio 2017\Projects\bfClassLib\bfClassLib\obj\Debug\bfClassLib.pdb
