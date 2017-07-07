@@ -1,0 +1,26 @@
+﻿<Window x:Class="BF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BF"
+        mc:Ignorable="d"
+        Title="BrotherFriend" Height="342.156" Width="355.392">
+    <Grid Margin="0,0,-8,0">
+
+        <Rectangle x:Name="msgForm" HorizontalAlignment="Left" Height="26" Margin="9,276,0,0" VerticalAlignment="Top" Width="258" RadiusX="10" RadiusY="10" Fill="White" StrokeThickness="1.5">
+            <Rectangle.Stroke>
+                <LinearGradientBrush EndPoint="10,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF494545"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Stroke>
+        </Rectangle>
+        <TextBox x:Name="msgWriter" Margin="16,280,93,0" TextWrapping="Wrap" Text="Escribe un mensaje" SpellCheck.IsEnabled="True" Foreground="Black" Height="19" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" BorderBrush="{x:Null}" BorderThickness="0"/>
+        <Button x:Name="Restart" Content="Restart" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="53" Click="Restart_Click"/>
+        <Button x:Name="Send" Content="Send" HorizontalAlignment="Left" Margin="274,281,0,0" VerticalAlignment="Top" Width="52" Click="Send_Click"/>
+        <TextBox x:Name="OutPut" HorizontalAlignment="Left" Margin="13,44,0,43" TextWrapping="Wrap" Text="TextBox" Width="310" VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" IsReadOnly="True" BorderBrush="White" Focusable="False" SelectionBrush="White"/>
+        <Button x:Name="button" Content="Pruebas&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="73,11,0,0" Height="20" Click="button_Click"/>
+
+    </Grid>
+</Window>

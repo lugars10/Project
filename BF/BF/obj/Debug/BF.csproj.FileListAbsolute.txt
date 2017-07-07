@@ -1,0 +1,16 @@
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\bin\Debug\BF.exe.config
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\bin\Debug\BF.exe
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\bin\Debug\BF.pdb
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF.csprojResolveAssemblyReference.cache
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\MainWindow.g.cs
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\App.g.cs
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF_MarkupCompile.cache
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF_MarkupCompile.lref
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\MainWindow.baml
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF.g.resources
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF.Properties.Resources.resources
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF.csproj.GenerateResource.Cache
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF.exe
+c:\users\luisroberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\BF.pdb
+C:\Users\LuisRoberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\Pruebas.g.cs
+C:\Users\LuisRoberto\documents\visual studio 2017\Projects\BF\BF\obj\Debug\Pruebas.baml
